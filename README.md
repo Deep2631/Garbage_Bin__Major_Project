@@ -4,9 +4,11 @@
 [ProjectHomePage](https://smartgarbage-f4f3b.web.app/)
 
  # Home page
- ![Home Page](./src/Images/Screenshot%202022-09-21%20102312.png)  
-
+ ![Screenshot (253)](https://user-images.githubusercontent.com/124482464/218319700-c7182cee-f3fb-4c57-a488-af0e3c5ac01e.png)
 # After 75% fill it shows red alert and click on bin it redirects to its location
+
+![image](https://user-images.githubusercontent.com/124482464/218319720-525f08c1-5791-44b5-9a1e-a1a6968346c4.png)
+
 ![after75%](./src/Images/after75.png)
 
 # Technology Used 
